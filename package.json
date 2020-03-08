@@ -1,0 +1,30 @@
+{
+    "name": "skynode-totaljs-net",
+    "version": "1.0.0",
+    "directories": {
+        "test": "test"
+    },
+    "keywords": [
+        "skynode",
+        "totaljs",
+        "net"
+    ],
+    "license": "MIT",
+    "readmeFilename": "readme.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skynode-integration/skynode-totaljs-net.git"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "skynode-totaljs-utils": "https://github.com/skynode-integration/skynode-totaljs-utils.git#master"
+    },
+    "engines": {
+        "node": ">=8.0.0"
+    },
+    "bugs": {
+        "url": "https://github.com/skynode-integration/skynode-totaljs-net/issues"
+    }
+}
